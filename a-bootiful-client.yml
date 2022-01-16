@@ -1,4 +1,7 @@
-my.greeting: E PA NECES
+server:
+  port: 8888
+app:
+  name: aggregatorMicroservice
 spring:
   cloud:
     config:

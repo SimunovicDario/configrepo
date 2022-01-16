@@ -1,7 +1,7 @@
 server:
   port: 8888
 app:
-  name: MYAPP
+  name: aggregatorMicroservice
 spring:
   cloud:
     config:

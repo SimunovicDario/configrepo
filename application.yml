@@ -1,8 +1,7 @@
 message: helooooooooooooooooooooooooooooo
 server:
   port: 8888
-app:
-  name: aggregatorMicroservice
+app: aggregatorMicroservice
 spring:
   cloud:
     config:

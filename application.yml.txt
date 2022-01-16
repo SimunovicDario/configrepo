@@ -5,4 +5,4 @@ spring:
 		config:
 			server:
 				git:
-					uri: file:\\C:\\Users\\dakid\\Desktop\\[RASSUS] 3. labos\\configrepo
+					uri: https://github.com/SimunovicDario/configrepo

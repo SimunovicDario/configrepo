@@ -5,6 +5,7 @@ spring:
     config:
       server:
         overrides:
-          app:  YAY
+          my:
+            greeting: E PA NECES
         git:
           uri: https://github.com/SimunovicDario/configrepo

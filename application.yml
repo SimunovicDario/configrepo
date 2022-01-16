@@ -6,5 +6,7 @@ spring:
   cloud:
     config:
       server:
+        overrides:
+          app:  YAY
         git:
           uri: https://github.com/SimunovicDario/configrepo

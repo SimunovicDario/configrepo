@@ -1,9 +1,5 @@
-message: helooooooooooooooooooooooooooooo
-server:
-  port: 8888
 my:
   greeting: E PA NECES
-app: application
 spring:
   cloud:
     config:

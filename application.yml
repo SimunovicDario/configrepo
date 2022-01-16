@@ -1,11 +1,7 @@
-my:
-  greeting: E PA NECES
+my.greeting: E PA NECES
 spring:
   cloud:
     config:
       server:
-        overrides:
-          my:
-            greeting: E PA NECES
         git:
           uri: https://github.com/SimunovicDario/configrepo

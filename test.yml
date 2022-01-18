@@ -1,2 +1,8 @@
 my.greeting: E PA NECES
 my.description: E PA NECES
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/SimunovicDario/configrepo
